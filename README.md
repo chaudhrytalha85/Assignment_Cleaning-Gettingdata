@@ -1,5 +1,5 @@
 # Assignment_Cleaning-Gettingdata
-Week 4 Assignment: Tidy Data
+Week 4 Assignment: Tidy Data.
 This is the course project of the Coursera course: Getting and Cleaning Data.
 
 ## Files in this Repo
